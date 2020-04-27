@@ -1,2 +1,2 @@
 # Covid-19-UKNotif
-One-time notification when COVID-19 statistics update in the United Kingdom
+One-time notifications for COVID-19 statistic changes in the United Kingdom
